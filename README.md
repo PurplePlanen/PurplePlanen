@@ -1,6 +1,7 @@
 
 - Hello, I'm PurplePlanen 👋
-- ![PurplePlanen](https://komarev.com/ghpvc/?username=PurplePlanen) ![PurplePlanen](https://visitor-badge.glitch.me/badge?page_id=PurplePlanen.profile)
+- A student is also a front-end worker
+- ![PurplePlanen](https://komarev.com/ghpvc/?username=PurplePlanen) ![](https://visitor-badge.glitch.me/badge?page_id=PurplePlanen.profile)
 
 ## Tags
 <table>
@@ -46,8 +47,8 @@
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+        <span><strong>VUE</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Java</strong></span><br><br><br>
