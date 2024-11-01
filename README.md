@@ -1,6 +1,6 @@
 
 - Hello, I'm PurplePlanen 👋
-- A student is also a front-end worker
+- A student is also a front-end weaver
 - ![PurplePlanen](https://komarev.com/ghpvc/?username=PurplePlanen) ![](https://visitor-badge.glitch.me/badge?page_id=PurplePlanen.profile)
 
 ## Tags
