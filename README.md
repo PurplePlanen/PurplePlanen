@@ -1,3 +1,4 @@
+![](assets/Bottom_up.svg)
 
 - Hello, I'm PurplePlanen 👋
 - A student is also a front-end weaver
