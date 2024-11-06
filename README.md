@@ -3,7 +3,6 @@
 - A student is also a front-end weaver
 - ![PurplePlanen](https://komarev.com/ghpvc/?username=PurplePlanen) ![](https://visitor-badge.glitch.me/badge?page_id=PurplePlanen.profile)
 
-![PurplePlanen's github activity graph](https://raw.githubusercontent.com/PurplePlanen/PurplePlanen/output/github-contribution-grid-snake.svg)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PurplePlanen"></img>
 ## Tags
 <table>
