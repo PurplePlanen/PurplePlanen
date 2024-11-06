@@ -1,9 +1,10 @@
-![](assets/Bottom_up.svg)
 
 - Hello, I'm PurplePlanen 👋
 - A student is also a front-end weaver
 - ![PurplePlanen](https://komarev.com/ghpvc/?username=PurplePlanen) ![](https://visitor-badge.glitch.me/badge?page_id=PurplePlanen.profile)
 
+![PurplePlanen's github activity graph](https://raw.githubusercontent.com/PurplePlanen/PurplePlanen/output/github-contribution-grid-snake.svg)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PurplePlanen"></img>
 ## Tags
 <table>
   <tbody>
@@ -67,6 +68,13 @@
   </tbody>
 </table>
 <hr>
+### Profile Views
+counting of visitors to this page in this section started from August 2, 2023
+
+![](https://count.getloli.com/get/@PurplePlanen.github.readme)
+</br>
+
+[MIT](LICENSE)
 
 ## Some Statistics About Me
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=PurplePlanen&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
