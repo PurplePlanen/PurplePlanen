@@ -81,7 +81,7 @@
     <tr valign="top">
       <td align="center">
         <span><strong>Gmail</strong></span><br>
-        <a href="vuenotion@gmail.com">your-email@gmail.com</a>
+        vuenotion@gmail.com
       </td>
       <td align="center">
         <span><strong>QQ</strong></span><br>
