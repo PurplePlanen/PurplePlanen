@@ -75,7 +75,7 @@
 ---
 
 ## 📩 Contact Me
-Welcome to contact me for front-end communication
+Welcome to contact me for front-end communication<br>
 I enjoy exchanging new ideas and techniques with others.
 <table>
   <tbody>
