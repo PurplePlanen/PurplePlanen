@@ -74,6 +74,29 @@
 
 ---
 
+## 📩 Contact Me
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td align="center">
+        <span><strong>Gmail</strong></span><br>
+        <a href="vuenotion@gmail.com">your-email@gmail.com</a>
+      </td>
+      <td align="center">
+        <span><strong>QQ</strong></span><br>
+        <a href="tencent://message/?uin=12345678">3030940662</a>
+      </td>
+      <td align="center">
+        <span><strong>Discord</strong></span><br>
+        <a href="https://discordapp.com/users/your-discord-id">purpleplanen</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
 ## 📈 Profile Views
 
 Counting visitors to this page since **August 2, 2023**:  
