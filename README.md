@@ -75,7 +75,7 @@
 ---
 
 ## 📩 Contact Me
-
+Welcome to contact me for front-end communication
 <table>
   <tbody>
     <tr valign="top">
