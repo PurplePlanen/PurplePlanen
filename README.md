@@ -109,5 +109,9 @@ Counting visitors to this page since **August 2, 2023**:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+### My Philosophy
+> "Simplicity is the soul of efficiency." – Austin Freeman
+
+
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
