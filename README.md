@@ -76,6 +76,7 @@
 
 ## 📩 Contact Me
 Welcome to contact me for front-end communication
+I enjoy exchanging new ideas and techniques with others.
 <table>
   <tbody>
     <tr valign="top">
