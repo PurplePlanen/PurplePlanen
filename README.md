@@ -112,6 +112,3 @@ Counting visitors to this page since **August 2, 2023**:
 ### My Philosophy
 > "Simplicity is the soul of efficiency." – Austin Freeman
 
-
-
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
