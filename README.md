@@ -99,7 +99,7 @@ Welcome to contact me for front-end communication
 
 ## 📈 Profile Views
 
-Counting visitors to this page since **August 2, 2023**:  
+> Counting visitors to this page since **August 2, 2023**:  
 ![Profile View Counter](https://count.getloli.com/get/@PurplePlanen.github.readme?theme=rule34)
 
 ---
