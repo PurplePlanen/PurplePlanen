@@ -7,8 +7,7 @@
 
 ## 🔥 Streak Stats
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=PurplePlanen&theme=dark&hide_border=true)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PurplePlanen&theme=shades-of-purple&hide_border=%E7%9C%9F)](https://git.io/streak-stats)
 ---
 
 ## 🏷️ Tags
@@ -107,7 +106,7 @@ I enjoy exchanging new ideas and techniques with others.
 
 ## 📊 Some Statistics About Me
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ### My Philosophy
