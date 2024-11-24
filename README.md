@@ -1,6 +1,12 @@
 # Hello, I'm PurplePlanen 👋
 
-- 🌱 A **student** and also a **front-end weaver**.  
+---
+
+- 🌱 **Student** and **Front-End Weaver**
+  
+- 💻 **Passionate about coding**  
+  I hope to connect with other front-end developers and creative thinkers.
+
 - 📊 ![Profile Views](https://komarev.com/ghpvc/?username=PurplePlanen)  
 
 ---
