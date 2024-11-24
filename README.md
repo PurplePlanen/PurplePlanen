@@ -2,9 +2,9 @@
 
 <!-- Language Selection -->
 
-  🌐 <a href="README.md">简体中文</a> | 
+  🌐 <a href="README-cn.md">简体中文</a> | 
   🌐 <a href="README.zh-TW.md">繁體中文</a> | 
-  🌐 <a href="README.en-US.md">English</a>
+  🌐 <a href="README.md">English</a>
 
 ---
 
