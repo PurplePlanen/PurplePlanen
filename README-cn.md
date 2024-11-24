@@ -7,7 +7,7 @@
  🌐 <a href="README.md">English</a>
 
 ---
-
+### 🎋&nbsp;&nbsp;青竹翠影，清风徐来
 - 🌱 **学生** 和 **前端开发者**  
 - 💻 **热衷于编码**  
   希望与其他前端开发者和创意思考者建立联系。一起交流进步'
@@ -22,7 +22,7 @@
 ---
 
 ## 🏷️ 技能标签
-
+### 🍃&nbsp;&nbsp;风轻云淡，闲庭信步
 <table>
   <tbody>
     <tr valign="top">
@@ -88,7 +88,7 @@
 
 欢迎与我联系，共同探讨前端技术和想法<br>
 我喜欢与他人交流新思路和新技术。
-
+### 🎐&nbsp;&nbsp;清风徐来，水波不兴
 <table>
   <tbody>
     <tr valign="top">
@@ -111,20 +111,20 @@
 ---
 
 ## 📈 个人资料浏览量
-
+### 🐚&nbsp;&nbsp;海上生明月，天涯共此时
 > 自 **2023年8月2日** 起开始统计访问量：  
 ![Profile View Counter](https://count.getloli.com/get/@PurplePlanen.github.readme?theme=rule34)
 
 ---
 
 ## 📊 关于我的一些统计数据
-
+### 🌙&nbsp;&nbsp;月影婆娑，琴心剑胆
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 # 我的世界观
-
+### 🍁&nbsp;&nbsp;落霞与孤鹜齐飞，秋水共长天一色
 > ## "简洁是效率的灵魂。"  
 > *— 奥斯汀·弗里曼*
 
