@@ -110,8 +110,7 @@
 
 ---
 
-## 📈 个人资料浏览量
-### 🐚&nbsp;&nbsp;海上生明月，天涯共此时
+### 📈&nbsp;&nbsp;海上生明月，天涯共此时
 > 自 **2023年8月2日** 起开始统计访问量：  
 ![Profile View Counter](https://count.getloli.com/get/@PurplePlanen.github.readme?theme=rule34)
 
