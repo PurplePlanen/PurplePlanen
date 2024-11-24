@@ -115,26 +115,19 @@ I enjoy exchanging new ideas and techniques with others.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
 # My Philosophy
 
----
-
-> ### "Simplicity is the soul of efficiency."
+> ## "Simplicity is the soul of efficiency."
 > *— Austin Freeman*
 
----
-
-> ### "The best way to predict the future is to invent it."
+> ## "The best way to predict the future is to invent it."
 > *— Alan Kay*
 
----
-
-> ### "Innovation distinguishes between a leader and a follower."
+> ## "Innovation distinguishes between a leader and a follower."
 > *— Steve Jobs*
 
----
+***
 
 
 
----
+
