@@ -8,7 +8,7 @@
 > '不同语言内容有些许差异,不一定及时同步'
 ---
 
-
+### 🎋&nbsp;&nbsp;青竹翠影，清风徐来
 - 🌱 **Student** and **Front-End Weaver**
   
 - 💻 **Passionate about coding**  
@@ -90,6 +90,7 @@
 ---
 
 ## 📩 Contact Me
+### 🎐&nbsp;&nbsp;雕栏玉砌应犹在，只是朱颜改
 Welcome to contact me for front-end communication<br>
 I enjoy exchanging new ideas and techniques with others.
 <table>
@@ -114,13 +115,13 @@ I enjoy exchanging new ideas and techniques with others.
 ---
 
 ## 📈 Profile Views
-
+### 📈&nbsp;&nbsp;海上生明月，天涯共此时
 > Counting visitors to this page since **August 2, 2023**:  
 ![Profile View Counter](https://count.getloli.com/get/@PurplePlanen.github.readme?theme=rule34)
-
 ---
 
 ## 📊 Some Statistics About Me
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,devto,discord,git,github,gmail,idea,instagram,java,linkedin,notion,nodejs,npm,pnpm,postman,pycharm,py,stackoverflow,twitter,vscode,vue,webstorm,vite)](https://skillicons.dev)
 
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
@@ -130,13 +131,13 @@ I enjoy exchanging new ideas and techniques with others.
 
 <details>
   <summary>Github Stats ⚡</summary>
-  
+  ### 🌙&nbsp;&nbsp;月影婆娑，琴心剑胆
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&theme=synthwave&count_private=true&show_icons=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurplePlanen&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
 </details>
 ---
 # My Philosophy
-
+### 🍁&nbsp;&nbsp;落霞与孤鹜齐飞，秋水共长天一色
 > ## "Simplicity is the soul of efficiency."
 > *— Austin Freeman*
 
