@@ -119,14 +119,20 @@
 ---
 
 ## 📊 关于我的一些统计数据
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,devto,discord,git,github,gmail,idea,instagram,java,linkedin,notion,nodejs,npm,pnpm,postman,pycharm,py,stackoverflow,twitter,vscode,vue,webstorm,vite)](https://skillicons.dev)
+
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+---
 ### 🌙&nbsp;&nbsp;月影婆娑，琴心剑胆
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>Github 统计信息⚡</summary>
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&theme=synthwave&count_private=true&show_icons=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurplePlanen&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
 </details>
----
+
 
 # 我的世界观
 ### 🍁&nbsp;&nbsp;落霞与孤鹜齐飞，秋水共长天一色
