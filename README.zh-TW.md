@@ -1,27 +1,32 @@
-# 你好，我是 PurplePlanen 👋
+# &nbsp;&nbsp;你好，我是PurplePlanen 👋
 
 <!-- 語言選擇 -->
 
- 🌐 <a href="README-cn.md">简体中文</a> | 
+  🌐 <a href="README-cn.md">簡體中文</a> | 
   🌐 <a href="README.zh-TW.md">繁體中文</a> | 
   🌐 <a href="README.md">English</a>
+> '不同語言內容有些許差異, 不一定即時同步'
+---
+
+### 🎋&nbsp;&nbsp;青竹翠影，清風徐來
+- 🌱 **學生** 和 **前端工程師**
+  
+- 💻 **熱愛編程**  
+  希望能與其他前端開發者及創意者交流。
+
+- 📊 ![Profile Views](https://komarev.com/ghpvc/?username=PurplePlanen)  
 
 ---
 
-- 🌱 **學生** 和 **前端開發者**  
-- 💻 **熱衷於編碼**  
-  希望與其他前端開發者和創意思考者建立聯繫。一起交流進步'
-- 📊 ![Profile Views](https://komarev.com/ghpvc/?username=PurplePlanen)
+<details>
+<summary> 🔥 Streak Stats</summary>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PurplePlanen&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+</details>
 
 ---
 
-## 🔥 連續編碼記錄
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PurplePlanen&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
-
----
-
-## 🏷️ 技能標籤
+## 🏷️ 標籤
 
 <table>
   <tbody>
@@ -85,10 +90,9 @@
 ---
 
 ## 📩 聯繫我
-
-歡迎與我聯繫，共同探討前端技術和想法<br>
-我喜歡與他人交流新思路和新技術。
-
+### 🎐&nbsp;&nbsp;雕欄玉砌應猶在，只是朱顏改
+歡迎聯繫我進行前端交流<br>
+我樂於與他人分享新想法與技巧。
 <table>
   <tbody>
     <tr valign="top">
@@ -110,27 +114,37 @@
 
 ---
 
-## 📈 個人資料瀏覽量
-
-> 自 **2023年8月2日** 起開始統計訪問量：  
+## 📈 訪問次數
+### 📈&nbsp;&nbsp;海上生明月，天涯共此時
+> 自 **2023年8月2日** 起計算訪問次數：  
 ![Profile View Counter](https://count.getloli.com/get/@PurplePlanen.github.readme?theme=rule34)
-
 ---
 
-## 📊 關於我的一些統計數據
+## 📊 我的統計
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,devto,discord,git,github,gmail,idea,instagram,java,linkedin,notion,nodejs,npm,pnpm,postman,pycharm,py,stackoverflow,twitter,vscode,vue,webstorm,vite)](https://skillicons.dev)
 
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 ---
 
-# 我的世界觀
+<details>
+  <summary>Github 統計 ⚡</summary>
+  ### 🌙&nbsp;&nbsp;月影婆娑，琴心劍膽
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&theme=synthwave&count_private=true&show_icons=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurplePlanen&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
+</details>
 
-> ## "簡潔是效率的靈魂。"  
-> *— 奧斯汀·弗里曼*
+# 我的理念
+### 🍁&nbsp;&nbsp;落霞與孤鶩齊飛，秋水共長天一色
+> ## "簡單是效率的靈魂。"  
+> *— Austin Freeman*
 
-> ## "預測未來的最佳方式是發明未來。"  
-> *— 艾倫·凱*
+> ## "預測未來的最好方式是創造它。"  
+> *— Alan Kay*
 
-> ## "創新區分了領導者和追隨者。"  
-> *— 史蒂夫·喬布斯*
+> ## "創新區別領袖與跟隨者。"  
+> *— Steve Jobs*
 
+***
