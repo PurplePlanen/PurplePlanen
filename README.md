@@ -118,7 +118,9 @@ I enjoy exchanging new ideas and techniques with others.
 ---
 
 ## 📊 Some Statistics About Me
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,devto,discord,git,github,gmail,idea,instagram,java,linkedin,notion,nodejs,npm,pnpm,postman,pycharm,py,stackoverflow,twitter,vscode,vue,webstorm,vite)](https://skillicons.dev)
+<br>
+---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
