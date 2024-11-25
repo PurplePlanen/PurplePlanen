@@ -135,7 +135,6 @@ I enjoy exchanging new ideas and techniques with others.
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&theme=synthwave&count_private=true&show_icons=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurplePlanen&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
 </details>
----
 
 # My Philosophy
 ### 🍁&nbsp;&nbsp;落霞与孤鹜齐飞，秋水共长天一色
