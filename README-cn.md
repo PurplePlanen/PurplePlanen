@@ -8,18 +8,20 @@
 
 ---
 ### 🎋&nbsp;&nbsp;青竹翠影，清风徐来
-- 🌱 **学生** 和 **前端开发者**  
+- 🌱 **学生** 和 **前端开发者**
+- 喜欢古典音乐,web3
 - 💻 **热衷于编码**  
   希望与其他前端开发者和创意思考者建立联系。一起交流进步'
 - 📊 ![Profile Views](https://komarev.com/ghpvc/?username=PurplePlanen)
-
 ---
 
-## 🔥 连续编码记录
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PurplePlanen&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+<details>
+<summary> 🔥 Streak Stats</summary>
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PurplePlanen&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
+</details>
 
----
 
 ## 🏷️ 技能标签
 ### 🍃&nbsp;&nbsp;风轻云淡，闲庭信步
@@ -118,8 +120,12 @@
 
 ## 📊 关于我的一些统计数据
 ### 🌙&nbsp;&nbsp;月影婆娑，琴心剑胆
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&theme=synthwave&count_private=true&show_icons=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurplePlanen&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
+</details>
 ---
 
 # 我的世界观
