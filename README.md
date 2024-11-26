@@ -116,12 +116,13 @@ I enjoy exchanging new ideas and techniques with others.
 ---
 
 ## 📈 Profile Views
-### &nbsp;&nbsp;海上生明月，天涯共此时🌕
+### &nbsp;&nbsp;🌕海上生明月，天涯共此时
 > Counting visitors to this page since **August 2, 2023**:  
 ![Profile View Counter](https://count.getloli.com/get/@PurplePlanen.github.readme?theme=rule34)
 ---
 
 ## 📊 Some Statistics About Me
+### 📜&nbsp;&nbsp;书香盈袖，梦回千载
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,devto,discord,git,github,gmail,idea,instagram,java,linkedin,notion,nodejs,npm,pnpm,postman,pycharm,py,stackoverflow,twitter,vscode,vue,webstorm,vite)](https://skillicons.dev)
 
