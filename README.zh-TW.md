@@ -20,14 +20,15 @@
 
 <details>
 <summary> 🔥 Streak Stats</summary>
-  
+
+ ### 🌟&nbsp;&nbsp;尋夢踏歌行，步步皆風景
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PurplePlanen&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 </details>
 
 ---
 
 ## 🏷️ 標籤
-
+### 🌸&nbsp;&nbsp;流光溢采，歲月如詩
 <table>
   <tbody>
     <tr valign="top">
@@ -115,12 +116,13 @@
 ---
 
 ## 📈 訪問次數
-### 📈&nbsp;&nbsp;海上生明月，天涯共此時
+### &nbsp;&nbsp;🌕海上生明月，天涯共此時
 > 自 **2023年8月2日** 起計算訪問次數：  
 ![Profile View Counter](https://count.getloli.com/get/@PurplePlanen.github.readme?theme=rule34)
 ---
 
 ## 📊 我的統計
+### 📜&nbsp;&nbsp;書香盈袖，夢回千載
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,devto,discord,git,github,gmail,idea,instagram,java,linkedin,notion,nodejs,npm,pnpm,postman,pycharm,py,stackoverflow,twitter,vscode,vue,webstorm,vite)](https://skillicons.dev)
 
@@ -131,8 +133,8 @@
 
 <details>
   <summary>Github 統計 ⚡</summary>
-  ### 🌙&nbsp;&nbsp;月影婆娑，琴心劍膽
   
+  ### 🌙&nbsp;&nbsp;月影婆娑，琴心劍膽
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&theme=synthwave&count_private=true&show_icons=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurplePlanen&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
 </details>
