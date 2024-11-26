@@ -18,13 +18,14 @@
 
 <details>
 <summary> 🔥 Streak Stats</summary>
-  
+
+ ### 🌟&nbsp;&nbsp;寻梦踏歌行，步步皆风景
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PurplePlanen&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 </details>
 
 
 ## 🏷️ 技能标签
-### 🍃&nbsp;&nbsp;风轻云淡，闲庭信步
+### 🌸&nbsp;&nbsp;流光溢彩，岁月如诗
 <table>
   <tbody>
     <tr valign="top">
@@ -87,10 +88,9 @@
 ---
 
 ## 📩 联系我
-
+### 🎐&nbsp;&nbsp;雕栏玉砌应犹在，只是朱颜改
 欢迎与我联系，共同探讨前端技术和想法<br>
 我喜欢与他人交流新思路和新技术。
-### 🎐&nbsp;&nbsp;雕栏玉砌应犹在，只是朱颜改
 <table>
   <tbody>
     <tr valign="top">
@@ -112,19 +112,22 @@
 
 ---
 
-### 📈&nbsp;&nbsp;海上生明月，天涯共此时
+### 📈&nbsp;&nbsp;🌕海上生明月，天涯共此时
 > 自 **2023年8月2日** 起开始统计访问量：  
 ![Profile View Counter](https://count.getloli.com/get/@PurplePlanen.github.readme?theme=rule34)
 
 ---
 
 ## 📊 关于我的一些统计数据
+### 📜&nbsp;&nbsp;书香盈袖，梦回千载
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bash,c,devto,discord,git,github,gmail,idea,instagram,java,linkedin,notion,nodejs,npm,pnpm,postman,pycharm,py,stackoverflow,twitter,vscode,vue,webstorm,vite)](https://skillicons.dev)
 
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/276544649148235776)
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 ---
+
 ### 🌙&nbsp;&nbsp;月影婆娑，琴心剑胆
 <details>
   <summary>Github 统计信息⚡</summary>
