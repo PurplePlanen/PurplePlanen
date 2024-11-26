@@ -100,7 +100,7 @@
       </td>
       <td align="center">
         <span><strong>QQ</strong></span><br>
-        <a href="tencent://message/?uin=12345678">3030940662</a>
+        <a href="tencent://message/?uin=12345678">3574194550</a>
       </td>
       <td align="center">
         <span><strong>Discord</strong></span><br>
