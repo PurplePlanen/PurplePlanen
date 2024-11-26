@@ -20,14 +20,15 @@
 
 <details>
 <summary> 🔥 Streak Stats</summary>
-  
+
+  ### 🌟&nbsp;&nbsp;寻梦踏歌行，步步皆风景
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PurplePlanen&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 </details>
 
 ---
 
 ## 🏷️ Tags
-
+### 🌸&nbsp;&nbsp;流光溢彩，岁月如诗
 <table>
   <tbody>
     <tr valign="top">
@@ -115,7 +116,7 @@ I enjoy exchanging new ideas and techniques with others.
 ---
 
 ## 📈 Profile Views
-### 📈&nbsp;&nbsp;海上生明月，天涯共此时
+### &nbsp;&nbsp;海上生明月，天涯共此时🌕
 > Counting visitors to this page since **August 2, 2023**:  
 ![Profile View Counter](https://count.getloli.com/get/@PurplePlanen.github.readme?theme=rule34)
 ---
@@ -131,6 +132,7 @@ I enjoy exchanging new ideas and techniques with others.
 
 <details>
   <summary>Github Stats ⚡</summary>
+  
   ### 🌙&nbsp;&nbsp;月影婆娑，琴心剑胆
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&theme=synthwave&count_private=true&show_icons=true&hide_border=true&line_height=20)</a>
