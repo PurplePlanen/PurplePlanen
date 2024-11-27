@@ -1,9 +1,8 @@
 # &nbsp;&nbsp;你好，我是PurplePlanen 👋
 
 <!-- 語言選擇 -->
-
+  - [x] 🌐 <a href="README.zh-TW.md">繁體中文</a> | 
   🌐 <a href="README.zh-CN.md">簡體中文</a> | 
-  🌐 <a href="README.zh-TW.md">~~繁體中文~~</a> | 
   🌐 <a href="README.md">English</a>
 > '不同語言內容有些許差異, 不一定即時同步'
 ---
