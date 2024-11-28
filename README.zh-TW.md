@@ -17,12 +17,10 @@
 
 ---
 
-<details>
 <summary> 🔥 Streak Stats</summary>
 
  ### 🌟&nbsp;&nbsp;尋夢踏歌行，步步皆風景
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PurplePlanen&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
-</details>
 
 ---
 
