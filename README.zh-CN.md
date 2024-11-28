@@ -126,13 +126,13 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 ---
 
-<！--
+
   <summary>Github 统计信息⚡</summary>
  
   ### 🌙&nbsp;&nbsp;月影婆娑，琴心剑胆
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&theme=synthwave&count_private=true&show_icons=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurplePlanen&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
--->
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=PurplePlane&hide=stars,issues&theme=synthwave&count_private=true&show_icons=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurplePlane&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
+
 
 
 # 我的世界观
