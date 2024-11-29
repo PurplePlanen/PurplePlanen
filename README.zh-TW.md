@@ -128,13 +128,15 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 ---
 
-<details>
-  <summary>Github 統計 ⚡</summary>
+<!-- 这是一个注释 <details>
+  <summary>Github Stats ⚡</summary>
   
-  ### 🌙&nbsp;&nbsp;月影婆娑，琴心劍膽
+  ### 🌙&nbsp;&nbsp;月影婆娑，琴心剑胆
+  
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&theme=synthwave&count_private=true&show_icons=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurplePlanen&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
 </details>
+-->
 
 # 我的理念
 ### 🍁&nbsp;&nbsp;落霞與孤鶩齊飛，秋水共長天一色
