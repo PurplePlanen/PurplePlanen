@@ -9,7 +9,7 @@
 ---
 ### 🎋&nbsp;&nbsp;青竹翠影，清风徐来
 - 🌱 **学生** 和 **前端开发者**
-- 喜欢古典音乐,web3
+- 喜欢古典音乐,web3,科技
 - 💻 **热衷于编码**  
   > 希望与其他前端开发者和创意思考者建立联系。一起交流进步'
 - 📊 ![Profile Views](https://komarev.com/ghpvc/?username=PurplePlanen)
@@ -126,13 +126,15 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 ---
 
-
-  <summary>Github 统计信息⚡</summary>
- 
+<!-- 这是一个注释 <details>
+  <summary>Github Stats ⚡</summary>
+  
   ### 🌙&nbsp;&nbsp;月影婆娑，琴心剑胆
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=PurplePlane&hide=stars,issues&theme=synthwave&count_private=true&show_icons=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurplePlane&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
-
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=PurplePlanen&hide=stars,issues&theme=synthwave&count_private=true&show_icons=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurplePlanen&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
+</details>
+-->
 
 
 # 我的世界观
