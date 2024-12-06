@@ -13,14 +13,19 @@
 - 💻 **热衷于编码**  
   > 希望与其他前端开发者和创意思考者建立联系,一起讨论'
 - 📊 ![Profile Views](https://komarev.com/ghpvc/?username=PurplePlanen)
+  <div style="border-radius: 20px;">
+  <img src="images/Qin.jpg" style="border-radius: 20px;" />
+</div>
+
 ---
 
-
-<summary> 🔥 Streak Stats</summary>
-
  ### 🌟&nbsp;&nbsp;寻梦踏歌行，步步皆风景
+  🔥 Streak Stats
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PurplePlanen&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
 
+
+---
 
 ## 🏷️ 技能标签
 ### 🌸&nbsp;&nbsp;流光溢彩，岁月如诗
