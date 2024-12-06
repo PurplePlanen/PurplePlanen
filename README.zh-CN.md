@@ -152,3 +152,5 @@
 
 > ## "创新区分了领导者和追随者。"  
 > *— 史蒂夫·乔布斯*
+
+  <img src="images/pic.jpeg" style="border-radius: 20px;" />
