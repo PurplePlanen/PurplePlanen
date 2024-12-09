@@ -137,6 +137,7 @@
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurplePlanen&layout=compact&theme=synthwave&count_private=true&hide_border=true)</a>
 </details>
 -->
+---
 
 # 我的理念
 ### 🍁&nbsp;&nbsp;落霞與孤鶩齊飛，秋水共長天一色
