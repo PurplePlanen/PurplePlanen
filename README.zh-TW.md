@@ -14,6 +14,9 @@
   希望能與其他前端開發者及創意者交流。
 
 - 📊 ![Profile Views](https://komarev.com/ghpvc/?username=PurplePlanen)  
+<div style="border-radius: 20px;">
+  <img src="images/Qin.jpg" style="border-radius: 20px;" />
+</div>
 
 ---
 
