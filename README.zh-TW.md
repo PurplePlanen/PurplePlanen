@@ -110,6 +110,9 @@
         <a href="https://discordapp.com/users/your-discord-id">purpleplanen</a>
       </td>
     </tr>
+    <div style="border-radius: 20px;">
+  <img src="images/Selephine.png" style="border-radius: 20px;" />
+</div>
   </tbody>
 </table>
 
