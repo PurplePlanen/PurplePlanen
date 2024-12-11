@@ -12,9 +12,9 @@
 - 🌱 **Student** and **Front-End Weaver**  
   Likes classical music, web3, and technology.
 - 💻 **Passionate about coding**  
-  I hope to connect with other front-end developers and creative thinkers.
-
+  ` I hope to connect with other front-end developers and creative thinkers.
 - 📊 ![Profile Views](https://komarev.com/ghpvc/?username=PurplePlanen)  
+- 🌈 I wish for people around the world to coexist peacefully.
 <div style="border-radius: 20px;">
   <img src="images/Qin.jpg" style="border-radius: 20px;" />
 </div>
