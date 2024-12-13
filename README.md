@@ -5,8 +5,7 @@
   🌐 <a href="README.zh-CN.md">简体中文</a> | 
   🌐 <a href="README.zh-TW.md">繁體中文</a> | 
   🌐 <a href="README.md">English</a>
-> 'There are some differences in the content of different languages, and they may not be synchronized in time.'
--->
+> 'There are some differences in the content of different languages, and they may not be synchronized in time.'-->
 
 ---
 
@@ -22,7 +21,7 @@
 </div>
 
 ---
-
+<!-- 
 ### 🌟&nbsp;&nbsp;寻梦踏歌行，步步皆风景
 🔥 Streak Stats
 
