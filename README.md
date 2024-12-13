@@ -5,12 +5,14 @@
   🌐 <a href="README.zh-CN.md">简体中文</a> | 
   🌐 <a href="README.zh-TW.md">繁體中文</a> | 
   🌐 <a href="README.md">English</a>
-> '不同语言内容有些许差异,不一定及时同步'
+> 'There are some differences in the content of different languages, and they may not be synchronized in time.'
+-->
+
 ---
 
 ### 🎋&nbsp;&nbsp;青竹翠影，清风徐来
 - 🌱 **Student** and **Front-End Weaver**  
-  Likes classical music, web3, and technology.
+  Likes classical, web3, and technology.
 - 💻 **Passionate about coding**  
   ` I hope to connect with other front-end developers and creative thinkers.
 - 📊 ![Profile Views](https://komarev.com/ghpvc/?username=PurplePlanen)  
@@ -25,7 +27,7 @@
 🔥 Streak Stats
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PurplePlanen&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
-
+-->
 ---
 
 ## 🏷️ Tags
@@ -135,7 +137,7 @@ I enjoy exchanging new ideas and techniques with others.
 ![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/276544649148235776)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 ---
-<!-- 这是一个注释 
+<!-- 
   <summary>Github Stats ⚡</summary>
   
   ### 🌙&nbsp;&nbsp;月影婆娑，琴心剑胆
