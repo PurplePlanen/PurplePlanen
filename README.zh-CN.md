@@ -17,13 +17,13 @@
   <img src="images/Qin.jpg" style="border-radius: 20px;" />
 </div>
 
----
+<!-- 
 
  ### 🌟&nbsp;&nbsp;寻梦踏歌行，步步皆风景
   🔥 Streak Stats
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PurplePlanen&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
-
+-->
 
 ---
 
@@ -135,7 +135,7 @@
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
 ---
 
-<!-- 这是一个注释 <details>
+<!--  <details>
   <summary>Github Stats ⚡</summary>
   
   ### 🌙&nbsp;&nbsp;月影婆娑，琴心剑胆
