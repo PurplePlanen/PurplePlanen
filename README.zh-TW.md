@@ -4,7 +4,7 @@
   - [x] 🌐 <a href="README.zh-TW.md">繁體中文</a> | 
   🌐 <a href="README.zh-CN.md">簡體中文</a> | 
   🌐 <a href="README.md">English</a>
-> '不同語言內容有些許差異, 不一定即時同步'
+> 'There are some differences in the content of different languages, and they may not be synchronized in time.'
 ---
 
 ### 🎋&nbsp;&nbsp;青竹翠影，清風徐來
@@ -18,13 +18,13 @@
   <img src="images/Qin.jpg" style="border-radius: 20px;" />
 </div>
 
----
+<!-- 
 
 🔥 Streak Stats
 
  ### 🌟&nbsp;&nbsp;尋夢踏歌行，步步皆風景
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PurplePlanen&theme=shades-of-purple&hide_border=true)](https://git.io/streak-stats)
-
+-->
 ---
 
 ## 🏷️ 標籤
