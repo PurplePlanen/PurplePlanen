@@ -92,28 +92,7 @@
 
 ---
 
-## 📩 Contact Me
-### 🎐&nbsp;&nbsp;雕栏玉砌应犹在，只是朱颜改
-Welcome to contact me for front-end communication<br>
-I enjoy exchanging new ideas and techniques with others.
-<table>
-  <tbody>
-    <tr valign="top">
-      <td align="center">
-        <span><strong>Gmail</strong></span><br>
-        vuenotion@gmail.com
-      </td>
-      <td align="center">
-        <span><strong>QQ</strong></span><br>
-        <a href="tencent://message/?uin=12345678">3574194550</a>
-      </td>
-      <td align="center">
-        <span><strong>Discord</strong></span><br>
-        <a href="https://discordapp.com/users/your-discord-id">purpleplanen</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+
 
 <div style="border-radius: 20px;">
   <img src="images/Selephine.png" style="border-radius: 20px;" />
